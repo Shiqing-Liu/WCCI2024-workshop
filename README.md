@@ -1,4 +1,4 @@
-# AJCAI2023-workshop
-This is the github repo for AJCAI2023 workshop: Machine Learning for Data-driven Optimization.
+# WCCI2024-workshop
+This is the github repo for WCCI2024 workshop.
 
-Please visit the official webpage: <https://shiqing-liu.github.io/AJCAI2023-workshop/>
+Please visit the official webpage: <https://shiqing-liu.github.io/WCCI2024-workshop/>
