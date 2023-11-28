@@ -2,6 +2,7 @@
 
 ![cec](https://raw.githubusercontent.com/Shiqing-Liu/WCCI2024-workshop/main/yokohama-background.jpg)
 
+
 ****
 
 **Aim and Scope**
