@@ -1,7 +1,6 @@
 *June 30 - July 5, 2024 in YOKOHAMA, JAPAN*
 
-![cec](https://raw.githubusercontent.com/Shiqing-Liu/AJCAI2023-workshop/main/AJCAI-background.jpg)
-
+![cec](https://raw.githubusercontent.com/Shiqing-Liu/WCCI2024-workshop/main/yokohama_background.jpg)
 
 ****
 
