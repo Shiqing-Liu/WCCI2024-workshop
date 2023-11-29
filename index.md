@@ -6,9 +6,9 @@
 
 **Aim and Scope**
 
-We are thrilled to propose an exclusive workshop that focuses on the emerging field of secure, privacy-preserving, and fairness-aware optimization. As the significance of  data-drivenoptimization reverberates across scientific and industrial domains, this platform will foster discussions among experts, aiming to solve various optimization problems while paying attention to security, privacy preservation, and fairness. The workshop aims to pave the way for collaborative efforts that propel the field toward responsible, ethical, and technologically advanced solutions.
+We are thrilled to propose an exclusive workshop that focuses on the emerging field of privacy-preserving and fairness-aware optimization. As the significance of  data-drivenoptimization reverberates across scientific and industrial domains, this platform will foster discussions among experts, aiming to solve various optimization problems while paying attention to security, privacy preservation, and fairness. The workshop aims to pave the way for collaborative efforts that propel the field toward responsible, ethical, and technologically advanced solutions.
 
-Over the past years, federated learning has become a popular machine learning paradigm that can leverage distributed data without leaking sensitive information. This is achieved by constructing a global model by aggregating local models separately trained on different devices/clients using local data. In contrast to federated learning, federated optimization has received much less attention. The use of a wealth of data collected by edge devices raises the concern of privacy leakage and security threats, posing challenges to traditional centralized optimization methods. In addition, in some scenarios, users care about not only the optimization performance, but also fairness in decision-making, multi-objective preference, or model construction.For data-driven optimization, it could be affected by data or algorithmic bias and thus generate unfair results: when the objective function values are correlated with real-world rewards (e.g., money), parties may be hesitant to collaborate if they risk incurring smaller real-world rewards than others. Hence, addressing the potential unfairness problems in optimization is also vital for building a positive and sustainable ecosystem, highlighting the need for secure, privacy-preserving and fairness-aware optimization techniques. Nevertheless, the scattered nature of this line of research, coupled with complex resource allocation processes and diverse fairness definitions render a substantial gap between technical solutions, regulations, and human needs for optimization. Therefore, the development of new algorithmic ideas and theories in optimization paradigm is crucial. 
+Over the past years, federated learning has become a popular machine learning paradigm that can leverage distributed data without leaking sensitive information. This is achieved by constructing a global model by aggregating local models separately trained on different devices/clients using local data. In contrast to federated learning, federated optimization has received much less attention. The use of a wealth of data collected by edge devices raises the concern of privacy leakage and security threats, posing challenges to traditional centralized optimization methods. In addition, in some scenarios, users care about not only the optimization performance, but also fairness in decision-making, multi-objective preference, or model construction.For data-driven optimization, it could be affected by data or algorithmic bias and thus generate unfair results: when the objective function values are correlated with real-world rewards (e.g., money), parties may be hesitant to collaborate if they risk incurring smaller real-world rewards than others. Hence, addressing the potential unfairness problems in optimization is also vital for building a positive and sustainable ecosystem, highlighting the need for privacy-preserving and fairness-aware optimization techniques. Nevertheless, the scattered nature of this line of research, coupled with complex resource allocation processes and diverse fairness definitions render a substantial gap between technical solutions, regulations, and human needs for optimization. Therefore, the development of new algorithmic ideas and theories in optimization paradigm is crucial. 
 
 ****
 
@@ -19,7 +19,6 @@ This workshop aims to bring together researchers from different fields working o
 - Privacy-preserving Bayesian optimization
 - Privacy-preserving evolutionary algorithm
 - Privacy-preserving distributed optimization
--  Secure federated data-driven optimization
 -  Federated surrogate models 
 -  Fairness-aware acquisition function
 -  Attacks and defenses in optimization
@@ -28,7 +27,7 @@ This workshop aims to bring together researchers from different fields working o
 -  Fairness-aware data-driven optimization
 -  Fairness-aware federated optimization
 -  Fairness-aware multi-objective machine learning
-- Performance indicators for secure, privacy-preserving and fairness-aware optimization
+- Performance indicators for privacy-preserving and fairness-aware optimization
 
 
 ****
